@@ -19,11 +19,11 @@ public class ExamVariousArray {
 				new SecondMax().init();
 			else if(num == 2)
 				new AvgScore().init();
-			else if(num ==3)
+			else if(num == 3)
 				new StudentScore().init();
-			else if(num ==4)
+			else if(num == 4)
 				new AptPersonCount().init();
-			else if(num ==5)
+			else if(num == 5)
 				new OnlyNumber().init();
 		} while (num != 6);
 		System.out.println("프로그램 종료!");
